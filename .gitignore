@@ -58,3 +58,10 @@ buck-out/
 
 # CocoaPods
 /ios/Pods/
+
+#Configs
+.editorconfig
+.buckconfig
+.eslintrc
+.flowconfig
+.watchmanconfig
